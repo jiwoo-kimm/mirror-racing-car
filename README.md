@@ -1,4 +1,4 @@
-# 🃏 Racing Car Game with TDD & Pair Programming
+# 🚗 Racing Car Game with TDD & Pair Programming
 
 - Java로 구현한 자동차 경주 게임입니다.
 - TDD와 Pair Programming을 통해 구현했습니다.
